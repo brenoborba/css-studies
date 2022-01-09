@@ -1,0 +1,13 @@
+body{
+    background: #dfdfdf;
+    background-image: url(assets/coffee.png);
+    background-repeat: no-repeat;
+    /*background-position: 100% 10%;*/
+    background-position: right center; /* Alinhamento a direita, ao centro da página (de cima pra baixo) */
+
+
+}
+
+p{
+    color: #222222;
+}
