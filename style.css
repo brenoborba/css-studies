@@ -1,10 +1,9 @@
 body{
     background: #dfdfdf;
+    color: #222222;
+    font-family: 'Raleway', sans-serif;
 }
 
-p{
-    color: #222222;
-}
 
 .foto-principal{
     border: 2px solid #FFFFFF;
@@ -12,6 +11,21 @@ p{
     margin: 30px; /* Shorthand do css: top, right, bottom, left margin */
     box-shadow: 0px 0px 10px #959595;
 
+}
+
+h1{
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(70, 70, 70);
+    font-weight: 100;
+    letter-spacing: -1px;
 }
 
 
