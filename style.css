@@ -4,6 +4,11 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
 
 .foto-principal{
     border: 2px solid #FFFFFF;
@@ -27,5 +32,6 @@ h2{
     font-weight: 100;
     letter-spacing: -1px;
 }
+
 
 
