@@ -2,6 +2,7 @@ body{
     background: #dfdfdf;
     color: #222222;
     font-family: 'Raleway', sans-serif;
+    margin: 0;
 }
 
 .container{
@@ -64,11 +65,18 @@ p{
 }
 
 .github{
-    margin-right: 20px;
-    margin-left: 20 px;
+    margin: 0 20px 0 20px;
 }
 
 .jobs-list{
     list-style: none;
     padding-left: 20px;
+}
+
+.footer{
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    padding: 20px 0 20px 0;
+    text-align: center;
 }
